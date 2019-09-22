@@ -2,7 +2,7 @@
 #!/bin/bash
 
 PACK="httpd wget unzip"
-WEBURL="https://www.tooplate.com/zip-templates/2113_earth.zip"
+WEBURL="https://www.tooplate.com/zip-templates/2118_chilling_cafe.zip"
 ARTIFACT="2113_earth"
 ROOTDIR="/var/www/html/"
 
